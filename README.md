@@ -49,7 +49,7 @@ MySQL • PostgreSQL
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/arvincharlsbasco](https://www.linkedin.com/in/arvin-charls-basco-549b65283/))  
+- 💼 [LinkedIn]https://www.linkedin.com/in/arvin-charls-basco-549b65283/
 - 📧 [Email Me](mailto:arvincharlb@gmail.com)
 
 ---
