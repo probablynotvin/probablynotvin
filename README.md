@@ -1,27 +1,43 @@
 # 👋 Hi, I'm Arvin Charls Basco
 
-🚀 **Full Stack Developer | WordPress + AngularJS Engineer | System Integrator**
+🎓 **Bachelor of Science in Information Technology (2021 – 2025)**  
+🏫 *Cavite State University – Tanza, Cavite*
 
-I’m passionate about developing intelligent, purpose-driven web platforms that connect people and possibilities.  
-Currently contributing to **PCES Inc.**, building SaaS ecosystems that empower inclusive employment across the Philippines.
+---
+
+### 🏅 Achievements & Activities
+- 🥇 **Best in Capstone Project (2025)**
+- 🎓 **Presented at the Student Research Symposium – Cavite State University**
+- 💡 **Attended eGovPH Super App Orientation – DICT Region IV-A (2024)**
+- 🔒 **Data Privacy and Protection in the Digital Age – West Visayas State University CICT (2024)**
 
 ---
 
 ### 💡 About Me
-- 🔭 Currently working on: **OJTGo**, **Chains2Chances**, and **Hirebilis** — all under the PCES Employment System.
-- 🌱 Learning more about **WebSocket integrations**, **React**, and **real-time data pipelines**.
-- 🧩 Experienced with **WordPress plugin & API development**, **AngularJS**, and **PHP–MySQL systems**.
-- 💬 Ask me about **system automation**, **AI-assisted recruitment tools**, or **Git workflows for multi-domain deployments**.
-- 🎯 Goal: To innovate technology that bridges employment gaps and promotes accessibility for all.
+I’m passionate about developing intelligent, purpose-driven web platforms that connect people and possibilities.  
+Currently contributing to **PCES Inc.**, building SaaS ecosystems that empower inclusive employment across the Philippines.
+
+I’m currently studying **TypeScript**, **Angular**, **Flutter**, and **PostgreSQL** to expand my full-stack development expertise.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** PHP, JavaScript (ES6+), HTML5, CSS3, SQL  
-**Frameworks & Tools:** AngularJS, React, Node.js, WordPress, Bootstrap, Tailwind  
-**Databases:** MySQL, Supabase  
-**DevOps:** Git, GitHub, cPanel, Nginx, Apache, SSH  
-**Design:** Figma, Canva, Adobe XD  
+### 🧠 Tech Stack
+**Languages & Frameworks**  
+HTML • CSS • JavaScript • AngularJS • React / ReactJS • PHP • TypeScript • Flutter  
+
+**Design & Tools**  
+Bootstrap • Tailwind • Git • UI/UX • Figma  
+
+**Databases**  
+MySQL • PostgreSQL  
+
+---
+
+### 💼 Experience & Focus
+- 🔭 Currently working on **OJTGo** and **Chains2Chances**, under the **PCES Inc. Employment System**  
+- 🧩 Experienced with **WordPress plugin & API development**, **AngularJS**, and **PHP–MySQL systems**  
+- 🌐 Learning **SSH & Networking Fundamentals**  
+- 🎯 Goal: To innovate technology that bridges employment gaps and promotes accessibility for all  
 
 ---
 
@@ -34,12 +50,10 @@ Currently contributing to **PCES Inc.**, building SaaS ecosystems that empower i
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/arvincharlsbasco)  
-- 🌎 [Portfolio Website](https://yourdomain.com)  
-- 🧠 [Glasp Profile](https://glasp.co/ArvinCharlsBasco)  
-- 📧 [Email Me](mailto:arvincharlsbasco@gmail.com)
+- 📧 [Email Me](mailto:arvincharlb@gmail.com)
 
 ---
 
 ### ✨ Quote I Live By
-> “Technology should empower, not exclude.”  
-> — *Arvin Charls Basco*
+> “A thousand miles begins with a single step.”  
+> — *Confucius*
