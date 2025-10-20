@@ -34,7 +34,7 @@ MySQL • PostgreSQL
 ---
 
 ### 💼 Experience & Focus
-- 🔭 Currently working on **OJTGo** and **Chains2Chances**, under the **PCES Inc. Employment System**  
+- 🔭 Currently working on [**OJTGo**](https://ojtgo.com) and [**Chains2Chances**](https://c2c.pces.com.ph), under the [**PCES Inc.**](https://pces.com.ph/) Employment System.
 - 🧩 Experienced with **WordPress plugin & API development**, **AngularJS**, and **PHP–MySQL systems**  
 - 🌐 Learning **SSH & Networking Fundamentals**  
 - 🎯 Goal: To innovate technology that bridges employment gaps and promotes accessibility for all  
